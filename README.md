@@ -5,6 +5,12 @@ cd SmartOranApp "(project name)"
 npm install  
 npx expo start
 
+# 'Server flask + web app' Folder Structure :
+main.py : contains the flask server and api for mobile app and all routes for web app.
+bdd.py : contain the strucutre of DB with SQLAlchemy.
+auth.py : contain token's functions
+/templates and /static : folder for Html / CSS / JS (flask structure)
+
 # create and activate your virtualenv for backend :
 python3 -m venv venv && source venv/bin/activate  
 pip install -r requirements.txt  
