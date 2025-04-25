@@ -1,6 +1,9 @@
 # BIG NOTE FOR THE SERVER APP
 API Base URL: `http://192.168.238.115:5000` (from Flask backend)
 To run the app:
+cd SmartOranApp "(project name)"
+npm install  
+npx expo start
 
 # create and activate your virtualenv for backend :
 python3 -m venv venv && source venv/bin/activate  
