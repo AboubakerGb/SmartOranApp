@@ -1,4 +1,4 @@
-#BIG NOTE FOR THE SERVER APP
+# BIG NOTE FOR THE SERVER APP
 API Base URL: `http://192.168.238.115:5000` (from Flask backend)
 To run the app:
 
