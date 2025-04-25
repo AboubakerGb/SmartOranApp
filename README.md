@@ -11,6 +11,18 @@ cd SmartOranApp "(project name)"
 npm install  
 npx expo start
 
+Libraries Used
+- react-native
+- @react-navigation/native + stack
+- axios
+- react-native-screens
+- react-native-safe-area-context
+- react-native-reanimated
+- expo-font 
+- expo-location
+- expo-splash-screen
+- expo-status-bar
+
 # Web framework
 Flask>=2.0,<3.0                    # Flask 2.x series                                      
 
